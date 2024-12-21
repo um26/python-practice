@@ -1,0 +1,1 @@
+print(f"20 is just {2} times {10}")
